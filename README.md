@@ -1,6 +1,6 @@
 # week4-task4-advanced-time-series-analysis
 Time series analysis on Apple stock data using Python. Includes trend analysis and moving average visualization.
-# 📊 Apple Stock Time Series Analysis
+#  Apple Stock Time Series Analysis
 
 ##  Project Overview
 This project focuses on performing time series analysis on Apple (AAPL) stock price data from 2020 to 2025. The goal is to understand price trends, market fluctuations, and long-term behavior using visualization and statistical techniques.
